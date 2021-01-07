@@ -1,0 +1,17 @@
+[
+{"kategori": "Gainers", "list": {"company": "ALIOS FINANCE CI - SAFCA", "point": "320", "growth": "+6.67%", "date": "06-Jan"}},
+{"kategori": "Gainers", "list": {"company": "BANK OF AFRICA - CI", "point": "3,495", "growth": "+4.33%", "date": "06-Jan"}},
+{"kategori": "Gainers", "list": {"company": "VIVO ENERGY CI", "point": "640", "growth": "+4.07%", "date": "06-Jan"}},
+{"kategori": "Gainers", "list": {"company": "SODECI", "point": "2,900", "growth": "+3.57%", "date": "06-Jan"}},
+{"kategori": "Gainers", "list": {"company": "NESTLE CI", "point": "365", "growth": "+2.82%", "date": "06-Jan"}},
+{"kategori": "Decliners", "list": {"company": "FILTISAC", "point": "1,485", "growth": "-7.48%", "date": "06-Jan"}},
+{"kategori": "Decliners", "list": {"company": "ECOBANK COTE D'IVOIRE", "point": "3,400", "growth": "-5.69%", "date": "06-Jan"}},
+{"kategori": "Decliners", "list": {"company": "SONATEL", "point": "12,500", "growth": "-5.66%", "date": "06-Jan"}},
+{"kategori": "Decliners", "list": {"company": "SGBCI", "point": "7,300", "growth": "-2.67%", "date": "06-Jan"}},
+{"kategori": "Decliners", "list": {"company": "SMB", "point": "3,000", "growth": "-2.60%", "date": "06-Jan"}},
+{"kategori": "Top Volume", "list": {"company": "PALMCI", "point": "2,200", "growth": "91,874", "date": "06-Jan"}},
+{"kategori": "Top Volume", "list": {"company": "BANK OF AFRICA - CI", "point": "3,495", "growth": "2,538", "date": "06-Jan"}},
+{"kategori": "Top Volume", "list": {"company": "AIR LIQUIDE CI - SIVOA", "point": "185", "growth": "2,336", "date": "06-Jan"}},
+{"kategori": "Top Volume", "list": {"company": "SUCRIVOIRE", "point": "505", "growth": "1,894", "date": "06-Jan"}},
+{"kategori": "Top Volume", "list": {"company": "BANK OF AFRICA - SENEGAL", "point": "1,400", "growth": "1,455", "date": "06-Jan"}}
+]
